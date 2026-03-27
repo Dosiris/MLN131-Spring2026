@@ -10,7 +10,7 @@ const teamMembers = [
     mssv: "SE172706",
     role: "Developer",
     roleIcon: "code",
-    image: "/anh/duyet.jpg",
+    image: "/anh/Duyet.jpg",
     isLeader: true,
     funFacts: [
       "🌙 Code đến 3h sáng là chuyện bình thường",
